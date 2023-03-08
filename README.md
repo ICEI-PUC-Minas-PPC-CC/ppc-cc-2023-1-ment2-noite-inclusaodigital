@@ -2,18 +2,16 @@
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
-`20XX - Semestre XX`
+`2023 - Semestre 01`
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+Otávio
+Tamoni Monise Ferreira da Silva
 
 ## Professor
 
-- Mestre Yoda
+-Luís
 
 # Documentação
 
