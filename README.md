@@ -1,17 +1,19 @@
-# TÍTULO DO PROJETO
+# CYBER-IDOSOS
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
-`2023 - Semestre 01`
+`20XX - Semestre XX`
 
 ## Integrantes
 
-Otávio
-Tamoni Monise Ferreira da Silva
+- Jeff Bezos
+- Bill Gates
+- Larry Ellison
+- Mark Zuckerberg
 
 ## Professor
 
--Luís
+- Mestre Yoda
 
 # Documentação
 
