@@ -9,9 +9,10 @@ Por isso, é fundamental que haja uma conscientização sobre a prevenção de g
 
 
 ## Problema
-Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
 
-O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+A inclusão digital é um tema cada vez mais relevante na atualidade, uma vez que a internet e a tecnologia estão cada vez mais presentes em nosso dia a dia. No entanto, um problema que ainda persiste é o distanciamento do público idoso do ambiente digital.
+
+Isso ocorre por diversos fatores, como a falta de acesso à tecnologia, a dificuldade em aprender a utilizá-la e o medo de lidar com as novas ferramentas. Além disso, muitas vezes os idosos são vítimas de preconceito por parte dos mais jovens, que muitas vezes os consideram "fora de moda" ou "ultrapassados" por não estarem familiarizados com as novas tecnologias.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
