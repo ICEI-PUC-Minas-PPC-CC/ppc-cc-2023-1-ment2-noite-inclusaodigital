@@ -1,6 +1,12 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Com o avanço da tecnologia e a popularização da internet, a inclusão digital se tornou uma questão cada vez mais importante para pessoas de todas as idades. Especialmente para a terceira idade, a inclusão digital pode ser um fator determinante para o seu bem-estar e qualidade de vida.
+
+No entanto, é importante que as pessoas idosas estejam conscientes dos riscos envolvidos no uso da internet e das redes sociais. Os golpes online estão cada vez mais frequentes e elaborados, e podem causar prejuízos financeiros e emocionais significativos.
+
+Por isso, é fundamental que haja uma conscientização sobre a prevenção de golpes online, por meio de orientações e programas de capacitação, para que as pessoas da terceira idade possam aproveitar as vantagens da inclusão digital de maneira segura e consciente.
+
+
 
 ## Problema
 Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
