@@ -1,6 +1,6 @@
 # Referências
 
-Referências
+Referências <br>
 ROMANO, M. F. F. et al. Tecnologia e inclusão digital na terceira idade: um estudo
 sobre a utilização dos recursos tecnológicos pelos idosos. Revista Brasileira de
 Geriatria e Gerontologia, Rio de Janeiro, v. 24, n. 2, e180156, 2021. DOI:
