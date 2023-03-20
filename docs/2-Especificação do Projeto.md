@@ -8,19 +8,20 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 Exemplo:
 
-|**Clarice Oliveira**|           |                             | 
+|**#1 - Clarice Oliveira**|           |                             | 
 |-------------------|-----------|-----------------------------|
 <img src="https://static8.depositphotos.com/1375799/888/i/600/depositphotos_8885558-stock-photo-70-year-old-woman-smiling.jpg" width="300" height="200"/>|**Idade:** 72 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Aposentada       |**Atribuições:** gerenciar seu lar. 
-|**Motivações:** Adora conversar com amigos e família |**Frustações:** dificuldade para realizar tarefas aparentemente simples pelo celular  |**Hobbies, história:** Clarice adora artesanato e passa boa parte do seu tempo livre se dedicando ao crochê, culinária também é sua paixão e ela ama conhecer novas receitas. De origem simples, Clarice cursou apenas até a 4ª série, mas seu espírito curioso a mantém em busca de novos aprendizados.
+|**Motivações:** Aprender novas habilidades |**Frustações:** dificuldade para realizar tarefas aparentemente simples pelo celular  |**Hobbies, história:** Clarice adora artesanato e passa boa parte do seu tempo livre se dedicando ao crochê, culinária também é sua paixão e ela ama conhecer novas receitas. De origem simples, Clarice cursou apenas até a 4ª série, mas seu espírito curioso a mantém em busca de novos aprendizados.
 
-|**Agenor Souza**|           |                             | 
+|**#2 -Agenor Souza**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://static6.depositphotos.com/1003580/615/i/450/depositphotos_6150815-stock-photo-elderly-old-mature-man-with.jpg" width="300" height="200"/>|**Idade:** 69 anos. **Naturalidade:** Caldas - Minas Gerais. **Ocupação:** Aposentado       |**Atribuições:** gerenciar seu lar. 
-|**Motivações:** Adora conversar com amigos e família |**Frustações:** dificuldade para realizar tarefas aparentemente simples pelo celular  |**Hobbies, história:** Clarice adora artesanato e passa boa parte do seu tempo livre se dedicando ao crochê, culinária também é sua paixão e ela ama conhecer novas receitas. De origem simples, Clarice cursou apenas até a 4ª série, mas seu espírito curioso a mantém em busca de novos aprendizados.
+<img src="https://static6.depositphotos.com/1003580/615/i/450/depositphotos_6150815-stock-photo-elderly-old-mature-man-with.jpg" width="300" height="200"/>|**Idade:** 74 anos. **Naturalidade:** Caldas - Minas Gerais. **Ocupação:** Aposentado       |**Atribuições:** (...). 
+|**Motivações:** Gosta de consumir conteúdos online |**Frustações:** tem dificuldade em identificar golpes  |**Hobbies, história:** Agenor sempre gostou de pescar com seus amigos, ficar na beira do rio é sua paixão e ele adora registrar cada momento. Foi caminhoneiro por muitos anos antes de se aponsentar e mantém contato com alguns amigos da época.
 
-
-
-
+|**#3 - Aparecida Ferreira**|           |                             | 
+|-------------------|-----------|-----------------------------|
+<img src="https://believe.earth/wp-content/uploads/2018/03/nilma-bentes_foto_tereza-e-aryanne-fotografia_believeearth-1024x717.jpg" width="300" height="200"/>|**Idade:** 69 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Aposentada       |**Atribuições:** (...). 
+|**Motivações:** Adora conversar com amigos e família |**Frustações:** não gosta de precisar de ajuda de terceiros para lidar com tecnologia |**Hobbies, história:** Aparecida sempre foi uma mulher à frente do seu tempo, atuou como enfermeira por 30 anos e adorava lidar as pessoas no seu dia a dia. Sente muita falta da sua filha e netos que moram no exterior, no qual, ela precisa se comunicar por meio da internet.
 
 
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
@@ -45,8 +46,9 @@ Exemplo:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
+|Clarice Oliveira | Aprender novas habilidades | Passar o tempo |
+|Agenor Souza | Navegar pela internet de forma segura | Evitar de cair em golpes. |
+|Aparecida Ferreira | Me comunicar com a minha família | Aproximar de parentes distantes |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
@@ -57,44 +59,9 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 > - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
 > - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
-## Obs.1: Caso seu grupo não vá desenvolver uma solução de software, as seções "requisitos funcionais", "requisitos não funcionais" e "restrições" DEVERÃO ser REMOVIDAS.
-## Obs.2: Caso seu grupo não vá desenvolver algum atividade que demande, uma pesquisa de campo através de questinários, a seção "artefatos para levantamento de dados" DEVERÁ ser REMOVIDA.
+\\## Obs.1: Caso seu grupo não vá desenvolver uma solução de software, as seções "requisitos funcionais", "requisitos não funcionais" e "restrições" DEVERÃO ser REMOVIDAS.
+\\## Obs.2: Caso seu grupo não vá desenvolver algum atividade que demande, uma pesquisa de campo através de questinários, a seção "artefatos para levantamento de dados" DEVERÁ ser REMOVIDA.
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
-
-### Requisitos Funcionais
-
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| O sistema deverá permitir o gerenciamento dos pacientes | ALTA | 
-|RF-002| O sistema deverá exibir todo histórico de atendimento do paciente   | ALTA |
-
-
-### Requisitos não Funcionais
-
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo | MÉDIA | 
-|RNF-002| o sistema deve processar requisições do usuário em, no máximo, 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ### Artefatos para levantamento de dados
 
