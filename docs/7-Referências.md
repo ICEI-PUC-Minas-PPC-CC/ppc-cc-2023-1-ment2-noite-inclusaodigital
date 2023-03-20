@@ -1,17 +1,11 @@
 # Referências
 
-Inclua todas as referências (livros, artigos, sites etc) utilizados no desenvolvimento do trabalho.
+Referências
+ROMANO, M. F. F. et al. Tecnologia e inclusão digital na terceira idade: um estudo
+sobre a utilização dos recursos tecnológicos pelos idosos. Revista Brasileira de
+Geriatria e Gerontologia, Rio de Janeiro, v. 24, n. 2, e180156, 2021. DOI:
+https://doi.org/10.1590/1981-22562021024.180156
+SILVEIRA, P. S. et al. (Org.). Tecnologia, envelhecimento e inclusão social. Porto
+Alegre: EDIPUCRS, 2019
 
-As referências deverão ser apresentadas aqui, na ordem em que elas aparecem, nos textos dentro do repositório (a numeração também deve ser sequencial).
-
-Exemplos de referências:
-
-[1] ELMASRI, Ramez; NAVATHE, Sham. Sistemas de banco de dados. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001. 
-
-[2] CORMEN, Thomas H. et al. Algoritmos: teoria e prática. Rio de Janeiro, RJ: Elsevier, Campus, c2012. xvi, 926 p. ISBN 9788535236996.
-
-> **Links Úteis**:
-> - [Normas ABNT PUC Minas](http://portal.pucminas.br/biblioteca/documentos/ABNT-Formatar-indicar-citacoes-e-referencia-las.pdf)
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
 
