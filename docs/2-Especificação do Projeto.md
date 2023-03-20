@@ -15,7 +15,7 @@ Exemplo:
 
 |**Agenor Souza**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://static6.depositphotos.com/1003580/615/i/450/depositphotos_6150815-stock-photo-elderly-old-mature-man-with.jpg" width="400" height="300"/>|**Idade:** 69 anos. **Naturalidade:** Caldas - Minas Gerais. **Ocupação:** Aposentado       |**Atribuições:** gerenciar seu lar. 
+<img src="https://static6.depositphotos.com/1003580/615/i/450/depositphotos_6150815-stock-photo-elderly-old-mature-man-with.jpg" width="300" height="200"/>|**Idade:** 69 anos. **Naturalidade:** Caldas - Minas Gerais. **Ocupação:** Aposentado       |**Atribuições:** gerenciar seu lar. 
 |**Motivações:** Adora conversar com amigos e família |**Frustações:** dificuldade para realizar tarefas aparentemente simples pelo celular  |**Hobbies, história:** Clarice adora artesanato e passa boa parte do seu tempo livre se dedicando ao crochê, culinária também é sua paixão e ela ama conhecer novas receitas. De origem simples, Clarice cursou apenas até a 4ª série, mas seu espírito curioso a mantém em busca de novos aprendizados.
 
 
