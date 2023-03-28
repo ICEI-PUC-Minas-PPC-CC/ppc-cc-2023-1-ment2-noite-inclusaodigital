@@ -6,7 +6,7 @@
 
 ## Integrantes
 
-Otávio Augusto Severino 
+Otávio Augusto Severino <br>
 Tamoni Monise Ferreira da Silva
 
 ## Professor
