@@ -6,6 +6,8 @@ No entanto, é importante que as pessoas idosas estejam conscientes dos riscos e
 
 Por isso, é fundamental que haja uma conscientização sobre a prevenção de golpes online, por meio de orientações e programas de capacitação, para que as pessoas da terceira idade possam aproveitar as vantagens da inclusão digital de maneira segura e consciente.
 
+Portanto, é essencial que os governos, organizações sem fins lucrativos e empresas de tecnologia trabalhem juntos para fornecer treinamento em habilidades digitais e conscientização sobre segurança cibernética para a terceira idade. A inclusão digital é fundamental para garantir que as pessoas idosas tenham acesso aos benefícios das tecnologias digitais, sem correrem riscos desnecessários.
+
 
 
 ## Problema
@@ -18,7 +20,7 @@ Os golpes on-line estão se tornando cada vez mais sofisticados e podem incluir 
 
 Além disso, a falta de inclusão digital na terceira idade também pode levar a uma perda de contato com familiares e amigos, limitação de acesso a serviços bancários e de saúde e redução das oportunidades de aprendizado e emprego.
 
-Portanto, é essencial que os governos, organizações sem fins lucrativos e empresas de tecnologia trabalhem juntos para fornecer treinamento em habilidades digitais e conscientização sobre segurança cibernética para a terceira idade. A inclusão digital é fundamental para garantir que as pessoas idosas tenham acesso aos benefícios das tecnologias digitais, sem correrem riscos desnecessários.
+
 
 
 > **Links Úteis**:
@@ -45,24 +47,22 @@ Em primeiro lugar, o mundo está cada vez mais digitalizado e as tecnologias dig
 
 Além disso, a exclusão digital pode levar a uma série de problemas sociais e econômicos, incluindo a exclusão de pessoas mais velhas ou de baixa renda dos serviços e oportunidades on-line. Isso pode levar a uma perda de conexão com familiares e amigos, além de limitar o acesso a serviços bancários, saúde e educação.
 
+De acordo com o IBGE, 14,6% da população brasileira têm 60 anos ou mais de idade, correspondendo a 30,3 milhões de pessoas da terceira-idade.
+
 Outra questão importante é que, com o aumento do número de pessoas usando a internet, também cresce o número de golpes on-line e crimes cibernéticos. Isso pode levar a prejuízos financeiros, roubo de informações pessoais e até mesmo problemas de segurança física.
+
+O perito em crimes digitais, Wanderson Castilho explica que a pandemia intensificou o uso da internet, e que agora idosos estão mais ativos no ambiente on-line, no entanto, ainda com pouco conhecimento sobre segurança digital. “Os golpes envolvendo pessoas da terceira idade, vão desde assuntos como aposentadoria, cartões de crédito bloqueados, e até de pessoas mal intencionadas que têm acesso direto a eles" e os idosos são um dos alvos mais fáceis dos criminosos.
 
 Ao promover a inclusão digital e alertar sobre os riscos do mundo digital, é possível ajudar as pessoas a se conectarem com o mundo on-line de forma mais segura e eficiente. Além disso, a educação em habilidades digitais pode ajudar a promover a igualdade de oportunidades e a combater a exclusão social.
 
-Por fim, esses objetivos também têm um papel importante na promoção da cidadania digital, incentivando as pessoas a assumirem a responsabilidade por suas ações on-line e a contribuírem para um ambiente on-line mais seguro e positivo para todos
+Por fim, esses objetivos também têm um papel importante na promoção da cidadania digital, incentivando as pessoas a assumirem a responsabilidade por suas ações on-line e a contribuírem para um ambiente on-line mais seguro e positivo para todos.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-O público-alvo para as aulas e palestras sobre inclusão digital e segurança cibernética seria a população idosa que ainda não tem as habilidades necessárias para navegar no mundo digital ou que se sente excluída do ambiente digital.
-
-Essas pessoas podem ser indivíduos mais velhos, que nunca tiveram contato com a tecnologia, ou aqueles que já tentaram, mas se sentem inseguros ou desencorajados devido a uma série de fatores, como a falta de conhecimento, a falta de acesso a equipamentos ou à internet, ou a falta de habilidades sociais.
-
-É importante destacar que a população idosa pode ser um grupo particularmente vulnerável no mundo digital, pois os criminosos cibernéticos muitas vezes se aproveitam da falta de conhecimento e das vulnerabilidades emocionais das pessoas mais velhas para aplicar golpes on-line.
-
-Por isso, as aulas e palestras devem ser especialmente adaptadas para atender às necessidades específicas deste público, abordando questões como a importância da privacidade e da segurança on-line, a importância do uso de senhas fortes e outras medidas de segurança, e o uso de ferramentas e aplicativos que podem ajudar a proteger contra ataques cibernéticos.
+O público-alvo para as aulas e palestras sobre inclusão digital e segurança cibernética seria a população adulta e idosa de 50 anos ou mais que ainda não tem as habilidades necessárias para navegar no mundo digital ou que se sente excluída do ambiente digital.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
