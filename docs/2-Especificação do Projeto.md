@@ -6,8 +6,6 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 ## Personas
 
-Exemplo:
-
 |**#1 - Clarice Oliveira**|           |                             | 
 |-------------------|-----------|-----------------------------|
 <img src="https://static8.depositphotos.com/1375799/888/i/600/depositphotos_8885558-stock-photo-70-year-old-woman-smiling.jpg" width="300" height="200"/>|**Idade:** 72 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Aposentada       |**Atribuições:** gerenciar seu lar. 
@@ -24,20 +22,6 @@ Exemplo:
 |**Motivações:** Adora conversar com amigos e família |**Frustações:** não gosta de precisar de ajuda de terceiros para lidar com tecnologia |**Hobbies, história:** Aparecida sempre foi uma mulher à frente do seu tempo, atuou como enfermeira por 30 anos e adorava lidar as pessoas no seu dia a dia. Sente muita falta da sua filha e netos que moram no exterior, no qual, ela precisa se comunicar por meio da internet.
 
 
-Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes/beneficiários ideais que sua solução almeja.
-
-Para selecionar as imagens de suas personas, utilize o site: https://this-person-does-not-exist.com/pt
-
 ## Histórias de Usuários
 
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
@@ -47,8 +31,11 @@ Exemplo:
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Clarice Oliveira | Aprender novas habilidades | Passar o tempo |
+|Clarice Oliveira |Buscar receitas  | Para produzir no dia a dia |
 |Agenor Souza | Navegar pela internet de forma segura | Evitar de cair em golpes. |
+|Agenor Souza | Me comunicar com meus amigos | Me sentir mais próximo das pessoas |
 |Aparecida Ferreira | Me comunicar com a minha família | Aproximar de parentes distantes |
+|Aparecida Ferreira | Melhorar o seu desempenho ao utilizar o celular | Para se sentir mais eficiente |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
