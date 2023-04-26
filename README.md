@@ -9,9 +9,10 @@
 Otávio Augusto Severino <br>
 Tamoni Monise Ferreira da Silva
 
-## Professor
+## Professores
 
 -Luís
+-Luciana
 
 # Documentação
 
