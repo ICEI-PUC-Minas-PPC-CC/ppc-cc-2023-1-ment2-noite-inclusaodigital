@@ -11,8 +11,7 @@ Tamoni Monise Ferreira da Silva
 
 ## Professores
 
--Luís
--Luciana
+Luciana de Nardin <br> Luis Gustavo Fogaroli 
 
 # Documentação
 
