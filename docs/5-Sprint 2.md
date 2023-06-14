@@ -1,6 +1,6 @@
-# Sprint 2
+# Recursos de celular para adultos e idosos
 
-Entrega de um relatório geral que inclua:
+Todo o projeto ocorreu como o previsto, sendo assim, as aulas ocorreram em 
 
 > Descrição detalhada das tarefas executadas: cronograma atualizado (dia, horário, alunos extensionistas que participaram, etc), material preparado, registro fotográfico, relatório de participação dos alunos etc.
 
