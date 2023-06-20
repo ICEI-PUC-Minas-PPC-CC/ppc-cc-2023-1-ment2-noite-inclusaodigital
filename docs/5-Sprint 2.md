@@ -5,9 +5,6 @@ Os alunos Otávio Severino e Tamoni Silva se organizaram para ministrar as aulas
 O material preparado foi exibido em apresentação de slides para os alunos, trazendo exemplos práticos, caminhos possíveis e acima de tudo estimulavam o pensamento sobre o uso dos recursos para que eles pudessem desenvolver autonomia na prática desses recursos.
 
 
-
-> Descrição detalhada das tarefas executadas: cronograma atualizado (dia, horário, alunos extensionistas que participaram, etc), material preparado, registro fotográfico, relatório de participação dos alunos etc.
-
 Para a primeira aula do projeto extensionista, foi entregue uma grande carga de conteúdo a ser abordado: conhecer os recursos básicos de configurações (conta, tamanho de fonte, papel de parede, tela e tempo de bloqueio, formas de desbloqueio por impressão digital, reconhecimento facial ou senhas, entre outros), assim como aplicativos úteis no dia a dia, tais como Relógio (alarme, temporizador, cronômetro), Gravador de voz, Calculadora, Agenda e Contatos.
 
 Consequentemente, nossos alunos ficaram um tanto confusos ao se depararem com o excesso de informações, seus diversos comandos em áreas distintas do celular e a diferença de interfaces de cada smartphone. Com a visível dificuldade dos alunos em acompanhar os ensinamentos e exercícios, foi necessário desacelerarmos o ritmo. Sendo assim, ao terminarmos de abordar todo o material, usamos o tempo restante da primeira aula para levar nossos alunos à área externa da faculdade e até adiantamos o conteúdo da segunda aula: eles aprenderam os recursos básicos da câmera do celular e tiraram muitas fotos do campus. Foi a partir daí que tivemos uma ideia.
@@ -20,10 +17,9 @@ Para a terceira e última aula, sentimos a necessidade de abordar os cuidados in
 
 Tendo em vista que o maior alvo de golpistas na internet são os idosos, justamente pela falta de informação e atenção aos detalhes suspeitos que aparecem com certa frequência em suas redes sociais e caixas de entrada de seus emails, terminamos o projeto extensionista sobre o Uso e Principais Recursos do Celular com a sensação de dever cumprido, abordando todos os conteúdos de forma mais leve e didática, além de alertar sobre os possíveis riscos de navegar pela internet sem a devida precaução.
 
-Atualizar o repositório no GitHub na seção relacionada à Sprint 2.
+![Projeto extensionista 01](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-noite-inclusaodigital/assets/108482611/2e682d5d-af4f-4dfa-a576-e9e7245c9085)
+![Projeto extensionista 02](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-noite-inclusaodigital/assets/108482611/d9b36202-6bdd-4430-ac87-3d600b2f820b)
+![Projeto extensionista 03](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-noite-inclusaodigital/assets/108482611/c1227403-a27a-45aa-a3dc-2ff1cbf98fb6)
+![Projeto extensionista 04](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-noite-inclusaodigital/assets/108482611/54b337d0-b457-46b1-b3a4-0af047c994b6)
 
-Fazer download do repositório e enviar o .zip via Canvas.
 
-Além disso, preencher a ficha de avaliação interna do grupo disponível no Canvas e anexá-la, apenas no Canvas (não a incluam aqui repositório do GitHub, por favor).
-
-Quaisquer dúvidas, me escrevam.
