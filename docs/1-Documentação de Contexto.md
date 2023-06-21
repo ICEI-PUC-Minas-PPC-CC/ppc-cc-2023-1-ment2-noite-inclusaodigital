@@ -30,9 +30,9 @@ Além disso, a falta de inclusão digital na terceira idade também pode levar a
 
 ## Objetivos
 
-Realizar aulas e palestras para abordar temas relacionados à inclusão digital e segurança cibernética é uma maneira importante de ajudar a promover a conscientização e prevenir golpes on-line. O objetivo principal dessas atividades é fornecer às pessoas as habilidades necessárias para navegar no mundo digital de forma segura e eficiente.
+Realizar aulas para abordar temas relacionados à inclusão digital e segurança cibernética é uma maneira importante de ajudar a promover a conscientização e prevenir golpes on-line. O objetivo principal dessas atividades é fornecer às pessoas as habilidades necessárias para navegar no mundo digital de forma segura e eficiente.
 
-Essas aulas e palestras podem ajudar a garantir que as pessoas saibam como se proteger de ameaças on-line, como identificar possíveis golpes e fraudes, como proteger informações pessoais e financeiras, e como usar as tecnologias digitais de maneira eficaz.
+Essas aulas podem ajudar a garantir que as pessoas saibam como se proteger de ameaças on-line, como identificar possíveis golpes e fraudes, como proteger informações pessoais e financeiras, e como usar as tecnologias digitais de maneira eficaz.
 
 Além disso, essas atividades também podem ajudar a combater a exclusão digital, fornecendo aos participantes as habilidades e a confiança necessárias para aproveitar as vantagens das tecnologias digitais e se conectar com outras pessoas on-line. Isso pode ser especialmente importante para pessoas mais velhas, que podem se sentir isoladas ou excluídas devido à falta de habilidades digitais.
  
